@@ -1,4 +1,4 @@
-# PROJECT TITLE 
+# Credit risk assesment 
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
