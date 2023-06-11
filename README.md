@@ -6,14 +6,7 @@
 
 ## DATA
 A summary of the data you’re using, remembering to include where you got it and any relevant citations.
- @misc{urvish vekariya_2023,
-	title={Credit Risk Assessment},
-	url={https://www.kaggle.com/dsv/5168573},
-	DOI={10.34740/KAGGLE/DSV/5168573},
-	publisher={Kaggle},
-	author={Urvish Vekariya},
-	year={2023}
-}
+ Urvish Vekariya. (2023). <i>Credit Risk Assessment</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/5168573
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
