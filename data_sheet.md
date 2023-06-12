@@ -46,8 +46,12 @@ The data is not a sample.
 ## Uses
 
 - What other tasks could the dataset be used for? 
-- Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? 
+
+--As we don't know the origin of the data, it is recommended to use the dataset only for educational purposes and not for real life tasks.--
+
+- Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? There are no risks given that no one uses the data for real life probelems.
 - Are there tasks for which the dataset should not be used? If so, please provide a description.
+__As we don't know the origin of the data, it is recommended to use the dataset only for educational purposes and not for real life tasks.
 
 ## Distribution
 
