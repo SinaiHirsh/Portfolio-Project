@@ -38,8 +38,13 @@ Give a summary graph or metrics of how the model performs. Remember to include h
 
 ## Limitations
 
-Outline the limitations of your model.
+1. The data source is not known, which means that it is not recomended to take it too serioesly. 
+2. Too much false positive. I think the right thing to do whould be to change the probability threshold so more instances would be marked as default even if their probability of default is lower then 50%. In other words, the accuracy of the model is high due to correct idenfication of non-defaults, but we failed in identifing the defaults. 
+
+
+![cm_pct](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/1df8f945-9b2b-4e53-9425-259451e123bf)
+
 
 ## Trade-offs
 
-Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+Again, the data and the model are only for educational porposes and should not be used to any real life problem. 
