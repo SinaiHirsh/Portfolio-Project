@@ -31,6 +31,13 @@ We will use Grid Search for hyperparameter tuning, to ensure that we get the bes
 
 Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
 
+Accuracy on the training data set after hyperparameters tuning:  0.8466698820537554
+
+Accuracy on the test data set after hyperparameters tuning:  0.8471454880294659
+
+Accuracy on the training data set with the original hyperparameters:  0.8461875739904415
+
+Accuracy on the test data set with the original hyperparameters:  0.8473501125434827
 
 
 ![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/5537f645-10a1-4d7c-91e2-a518260ec20f)
