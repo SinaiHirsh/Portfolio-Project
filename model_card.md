@@ -25,11 +25,11 @@ We will use Grid Search for hyperparameter tuning, to ensure that we get the bes
 
 **Output:** The output variable is: Loan status (0 is non default 1 is default).
 
-**Model Architecture:** Using logistic regression, our aim is to predict pobability of default based on the input variables. 
+**Model Architecture:** Using logistic regression, our aim is to predict probability of default based on the input variables. 
 
 ## Performance
 
-The accuracy is quite high both on train and test sets. After hyperparameter tuning the train accuracy slightly increased, while the test accuracy decrease a little bit. 
+The accuracy is quite high both on train and test sets. After hyperparameter tuning the train accuracy slightly increased, while the test accuracy decreases a little bit. 
 
 Accuracy on the training data set with the original hyperparameters:  0.8461875739904415
 
@@ -47,8 +47,8 @@ Confusion matrix:
 
 ## Limitations
 
-1. The data source is not known, which means that it is not recomended to take it too serioesly. 
-2. Too much false positive. I think the right thing to do whould be to change the probability threshold so more instances would be marked as default even if their probability of default is lower then 50%. In other words, the accuracy of the model is high due to correct idenfication of non-defaults, but we failed in identifing the defaults. 
+1. The data source is not known, which means that it is not recommended to take it too serioesly. 
+2. Too much false positive. I think the right thing to do would be to change the probability threshold so more instances would be marked as default even if their probability of default is lower than 50%. In other words, the accuracy of the model is high due to correct identification of non-defaults, but we failed in identifying the defaults. 
 
 
 ![cm_pct](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/1df8f945-9b2b-4e53-9425-259451e123bf)
@@ -56,4 +56,4 @@ Confusion matrix:
 
 ## Trade-offs
 
-Again, the data and the model are only for educational porposes and should not be used to any real life problem. 
+Again, the data and the model are only for educational purposes and should not be used to any real-life problem. 
