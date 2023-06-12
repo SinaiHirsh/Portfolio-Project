@@ -20,7 +20,7 @@ According to the inforamation on Kaggle, the data was last updated 3 months ago.
 - What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?  
 _The dataset represents 32581 observations of information about loans. It seems that each observation represents a unique loan._
 - How many instances of each type are there? 
-  _There are 5745 instances of default and 26836 instances of non default._
+  _There are 7108 instances of default and 25473 instances of non default._
 - Is there any missing data? 
 _There are 2 columns with missing values: There are 895 missing values in person_emp_length and 3116 missing values in loan interest rate._
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?  
