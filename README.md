@@ -45,8 +45,8 @@ Accuracy on the test data set after hyperparameters tuning:  0.8471454880294659
 
 Confusion matrix:
 
-![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/5537f645-10a1-4d7c-91e2-a518260ec20f)
 
+![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/8481e77c-5a09-4372-bcd9-46c894ce244c)
 
  
 
