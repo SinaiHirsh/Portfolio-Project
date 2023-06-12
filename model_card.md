@@ -31,6 +31,11 @@ We will use Grid Search for hyperparameter tuning, to ensure that we get the bes
 
 Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
 
+
+
+![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/5537f645-10a1-4d7c-91e2-a518260ec20f)
+
+
 ## Limitations
 
 Outline the limitations of your model.
