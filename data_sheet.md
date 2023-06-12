@@ -11,7 +11,7 @@ According to the inforamation on Kaggle, the data was last updated 3 months ago.
 
 - For what purpose was the dataset created?  
 We don't have this information. The data appears on Kaggle in a project that was created by Urvish Vekariya, but there are no details about the origin or the motivation etc. 
-- Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset? 
+- Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?  
  We don't have this information, but it seems like it's a simulation and not a real dataset. 
 
 
