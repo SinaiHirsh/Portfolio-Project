@@ -37,9 +37,13 @@ _The data is not a sample._
 
 ## Preprocessing/cleaning/labelling
 
-- Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)? If so, please provide a description. If not, you may skip the remaining questions in this section. 
+- Was any preprocessing/cleaning/labeling of the data done (e.g., discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values)? If so, please provide a description. If not, you may skip the remaining questions in this section.
 
-- Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)? 
+*Missing values in person_emp_length were set to a value of zero. Missing values in loan_int_rate was set to the average value. Values of age that were higher then 120 were set to 120. In addition, all input variables were converted to scale values by standartisation.*
+
+- Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?  
+
+*All the original values are saved in the original file.*
  
 ## Uses
 
@@ -53,10 +57,10 @@ __As we don't know the origin of the data, it is recommended to use the dataset 
 
 ## Distribution
 
-- How has the dataset already been distributed? 
-- Is it subject to any copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?  
+- How has the dataset already been distributed? *Via Kaggle.*
+- Is it subject to any copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)? *CC0: Public Domain.* 
 
 ## Maintenance
 
-- Who maintains the dataset?
+- Who maintains the dataset? *We don't have this information. The data appears on Kaggle in a project that was created by Urvish Vekariya, but there are no details about the origin or the motivation etc.*
 
