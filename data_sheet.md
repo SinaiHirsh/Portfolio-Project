@@ -2,17 +2,17 @@
 
 As far as you can, complete the model datasheet. If you have got the data from the internet, you may not have all the information you need, but make sure you include all the information you do have. 
 
-I used data from https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment?datasetId=2995523
+_I used data from https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment?datasetId=2995523
 The data consists of 32,581 records of loans. 
 The dataset contains columns simulating credit bureau data.
-According to the inforamation on Kaggle, the data was last updated 3 months ago.
+According to the inforamation on Kaggle, the data was last updated 3 months ago._
 
 ## Motivation
 
 - For what purpose was the dataset created?  
-We don't have this information. The data appears on Kaggle in a project that was created by Urvish Vekariya, but there are no details about the origin or the motivation etc. 
+*We don't have this information. The data appears on Kaggle in a project that was created by Urvish Vekariya, but there are no details about the origin or the motivation etc.*
 - Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?  
- We don't have this information, but it seems like it's a simulation and not a real dataset. 
+ *We don't have this information, but it seems like it's a simulation and not a real dataset.*
 
 
 
@@ -20,22 +20,22 @@ We don't have this information. The data appears on Kaggle in a project that was
 ## Composition
 
 - What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?  
-The dataset represents 32581 observations of information about loans. It seems that each observation represents a unique loan. 
+_The dataset represents 32581 observations of information about loans. It seems that each observation represents a unique loan._
 - How many instances of each type are there? 
-  There are 5745 instances of default and 26836 instances of non default.
+  _There are 5745 instances of default and 26836 instances of non default._
 - Is there any missing data? 
-There are 2 columns with missing values: There are 895 missing values in person_emp_length and 3116 missing values in loan interest rate.
+_There are 2 columns with missing values: There are 895 missing values in person_emp_length and 3116 missing values in loan interest rate._
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?  
-No.
+_No._
 
 ## Collection process
 
 - How was the data acquired? 
- We don't have this information, but it seems like it's a simulation and not a real dataset. 
+_We don't have this information, but it seems like it's a simulation and not a real dataset._
 - If the data is a sample of a larger subset, what was the sampling strategy? 
-The data is not a sample.
+_The data is not a sample._
 - Over what time frame was the data collected?
- We don't have this information, but it seems like it's a simulation and not a real dataset. 
+ _We don't have this information, but it seems like it's a simulation and not a real dataset._
 
 ## Preprocessing/cleaning/labelling
 
