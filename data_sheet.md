@@ -1,6 +1,9 @@
 # Datasheet Template
 
 As far as you can, complete the model datasheet. If you have got the data from the internet, you may not have all the information you need, but make sure you include all the information you do have. 
+I used data from https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment?datasetId=2995523
+The data consists of 32,581 records of loans.
+According to the inforamation on Kaggle, the data was last Updated 3 months ago.
 
 ## Motivation
 
