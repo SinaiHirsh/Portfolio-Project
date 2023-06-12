@@ -1,14 +1,31 @@
 # Model Card
 
-See the [example Google model cards](https://modelcards.withgoogle.com/model-reports) for inspiration. 
+As a portfolio project summarises the course, I chose to concentrate on a problem of credit risk prediction. The data was taken from Kaggle, as well as some of the codebase.
+
+Our goal is to predict the probability of default based on a set of input variables. We will use logistic regression, so each observation gets a value between 0 and 1 - which is the probability of default.
+
+We will use Grid Search for hyperparameter tuning, to ensure that we get the best combination of hyperparameters that make the accuracy the highest.
 
 ## Model Description
 
-**Input:** Describe the inputs of your model 
+**Input:** The input variables are: 
 
-**Output:** Describe the output(s) of your model
 
-**Model Architecture:** Describe the model architecture you’ve used
+	Age,
+	Annual Income,
+	Home ownership,
+	Employment length (in years),
+	Loan intent,
+	Loan grade,
+	Loan amount,
+	Interest rate,
+	Percent income,
+	Historical default,
+	Credit history length.
+
+**Output:** The output variable is: Loan status (0 is non default 1 is default).
+
+**Model Architecture:** Using logistic regression, our aim is to predict pobability of default based on the input variables. 
 
 ## Performance
 
