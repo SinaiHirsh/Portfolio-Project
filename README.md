@@ -32,12 +32,21 @@ The idea is using gread search for hyperparameter tuning, when the algorithm con
 
 ## RESULTS
 
+The accuracy is quite high both on train and test sets. After hyperparameter tuning the train accuracy slightly increased, while the test accuracy decreases a little bit. 
 
-You can include images of p![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/75bbfcbc-b02b-4ef4-b44b-ecbfd95cec22)
-lots using the code below:
+Accuracy on the training data set with the original hyperparameters:  0.8461875739904415
 
-![Screenshot](image.png)
+Accuracy on the training data set after hyperparameters tuning:  0.8466698820537554
 
-## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+Accuracy on the test data set with the original hyperparameters:  0.8473501125434827
+
+Accuracy on the test data set after hyperparameters tuning:  0.8471454880294659
+
+
+Confusion matrix:
+
+![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/5537f645-10a1-4d7c-91e2-a518260ec20f)
+
+
+ 
 
