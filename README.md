@@ -27,7 +27,9 @@ The idea is using gread search for hyperparameter tuning, when the algorithm con
 ## RESULTS
 A summary of your results and what you can learn from your model 
 
-You can include images of plots using the code below:
+You can include images of p![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/75bbfcbc-b02b-4ef4-b44b-ecbfd95cec22)
+lots using the code below:
+
 ![Screenshot](image.png)
 
 ## (OPTIONAL: CONTACT DETAILS)
