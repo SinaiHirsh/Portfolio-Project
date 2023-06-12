@@ -42,7 +42,8 @@ Accuracy on the test data set after hyperparameters tuning:  0.8471454880294659
 
 Confusion matrix:
 
-![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/5537f645-10a1-4d7c-91e2-a518260ec20f)
+
+![cm](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/2efae4b3-c330-4225-a506-b71000d691a9)
 
 
 ## Limitations
@@ -51,7 +52,7 @@ Confusion matrix:
 2. Too much false positive. I think the right thing to do would be to change the probability threshold so more instances would be marked as default even if their probability of default is lower than 50%. In other words, the accuracy of the model is high due to correct identification of non-defaults, but we failed in identifying the defaults. 
 
 
-![cm_pct](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/1df8f945-9b2b-4e53-9425-259451e123bf)
+![cm_pct](https://github.com/SinaiHirsh/Portfolio-Project/assets/135940841/ae481dbf-6bf9-45eb-ab64-976eacfa89fb)
 
 
 ## Trade-offs
