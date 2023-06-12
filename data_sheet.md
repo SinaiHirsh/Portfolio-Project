@@ -1,19 +1,22 @@
 # Datasheet Template
 
 As far as you can, complete the model datasheet. If you have got the data from the internet, you may not have all the information you need, but make sure you include all the information you do have. 
+
 I used data from https://www.kaggle.com/datasets/urvishvekariya/credit-risk-assessment?datasetId=2995523
 The data consists of 32,581 records of loans.
-According to the inforamation on Kaggle, the data was last Updated 3 months ago.
+According to the inforamation on Kaggle, the data was last updated 3 months ago.
 
 ## Motivation
 
-- For what purpose was the dataset created? 
-- Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?
+- For what purpose was the dataset created? We don't have this information. The data appears on Kaggle in a project that was created by Urvish Vekariya, but there are no details about the origin or the motivation etc. 
+- Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset? We don't have this information.
+
+
 
  
 ## Composition
 
-- What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? 
+- What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? The dataset represents 32581 observations of information about loans. It seems that each observation represents a unique loan. 
 - How many instances of each type are there? 
 - Is there any missing data?
 - Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
